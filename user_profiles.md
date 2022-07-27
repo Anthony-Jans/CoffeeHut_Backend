@@ -1,0 +1,4 @@
+* Daily
+* Weekly
+* Monthly
+* Quarterly
