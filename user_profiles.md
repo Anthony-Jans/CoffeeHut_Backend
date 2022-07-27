@@ -2,3 +2,4 @@
 * Weekly
 * Monthly
 * Quarterly
+* Loyal
